@@ -1,0 +1,83 @@
+aeroplane -> valeur d'entraiement : '11' score : '94.5739'
+bicycle -> valeur d'entraiement : '99' score : '95.1224'
+bird -> valeur d'entraiement : '99' score : '93.5357'
+boat -> valeur d'entraiement : '99' score : '95.808'
+bottle -> valeur d'entraiement : '99' score : '93.9863'
+bus -> valeur d'entraiement : '99' score : '96.5524'
+car -> valeur d'entraiement : '17' score : '89.4809'
+cat -> valeur d'entraiement : '5 'score : '90.1077'
+chair -> valeur d'entraiement : '99' score : '89.6768'
+cow -> valeur d'entraiement : '99' score : '97.5514'
+diningtable -> valeur d'entraiement : '99' score : '95.0441'
+dog -> valeur d'entraiement : '99' score : '87.9922'
+horse -> valeur d'entraiement : '99' score : '95.7689'
+motorbike -> valeur d'entraiement : '99' score : '95.5142'
+person -> valeur d'entraiement : '2 'score : '62.5269'
+pottedplant -> valeur d'entraiement : 99 score : '95.3575'
+sheep -> valeur d'entraiement : '99' score : '97.2772'
+sofa -> valeur d'entraiement : '95' score : '94.8482'
+train -> valeur d'entraiement : '99' score : '95.5338'
+tvmonitor -> valeur d'entraiement : '99' score : '95.1224'
+
+aeroplane -> valeur d'entraiement : '118' score : '94.143'
+bicycle -> valeur d'entraiement : '199' score : '95.1224'
+bird -> valeur d'entraiement : '199' score : '93.5357'
+boat -> valeur d'entraiement : '199' score : '95.808'
+bottle -> valeur d'entraiement : '199' score : '93.9863'
+bus -> valeur d'entraiement : '199' score : '96.5524'
+car -> valeur d'entraiement : '126' score : '89.4417'
+cat -> valeur d'entraiement : '121' score : '90.0881'
+chair -> valeur d'entraiement : '120' score : '89.6768'
+cow -> valeur d'entraiement : '199' score : '97.5514'
+diningtable -> valeur d'entraiement : '199' score : '95.0441'
+dog -> valeur d'entraiement : '164' score : '87.9922'
+horse -> valeur d'entraiement : '189' score : '95.7689'
+motorbike -> valeur d'entraiement : '120' score : '95.5142'
+person -> valeur d'entraiement : '199' score : '61.5475'
+pottedplant -> valeur d'entraiement : '199' score : '95.3575'
+sheep -> valeur d'entraiement : '199' score : '97.2772'
+sofa -> valeur d'entraiement : '199' score : '94.8482'
+train -> valeur d'entraiement : '199' score : '95.5338'
+tvmonitor -> valeur d'entraiement : '151' score : '95.1224'
+
+color cow -> valeur : 16 -> score : 0.0672
+color sheep -> valeur : 10 -> score : 0.1360
+color bus -> valeur : 11 -> score : 0.1089
+color horse -> valeur : 19 -> score : 0.0652
+color train -> valeur : 9 -> score : 0.1143
+color boat -> valeur : 19 -> score : 0.1633
+color bicycle -> valeur : 16 -> score : 0.0676
+color tvmonitor -> valeur : 10 -> score : 0.0844
+color pottedplant -> valeur : 13 -> score : 0.0600
+color aeroplane -> valeur : 17 -> score : 0.3099
+color diningtable -> valeur : 10 -> score : 0.1127
+color motorbike -> valeur : 15 -> score : 0.0692
+color sofa -> valeur : 11 -> score : 0.0768
+color bottle -> valeur : 9 -> score : 0.0972
+color bird -> valeur : 15 -> score : 0.1740
+color person -> valeur : 2 -> score : 0.4526
+color chair -> valeur : 5 -> score : 0.1677
+color cat -> valeur : 13 -> score : 0.1689
+color car -> valeur : 19 -> score : 0.1700
+color dog -> valeur : 11 -> score : 0.1775
+
+sift cow -> valeur : 13 -> score : 0.1044
+sift sheep -> valeur : 7 -> score : 0.1684
+sift bus -> valeur : 5 -> score : 0.2962
+sift horse -> valeur : 10 -> score : 0.1304
+sift boat -> valeur : 2 -> score : 0.2697
+sift train -> valeur : 5 -> score : 0.3479
+sift motorbike -> valeur : 10 -> score : 0.1219
+sift bicycle -> valeur : 7 -> score : 0.2139
+sift pottedplant -> valeur : 10 -> score : 0.0833
+sift diningtable -> valeur : 5 -> score : 0.1268
+sift tvmonitor -> valeur : 9 -> score : 0.3308
+sift aeroplane -> valeur : 2 -> score : 0.5737
+sift sofa -> valeur : 5 -> score : 0.1372
+sift bottle -> valeur : 7 -> score : 0.1243
+sift bird -> valeur : 6 -> score : 0.2317
+sift cat -> valeur : 3 -> score : 0.3375
+sift car -> valeur : 3 -> score : 0.2666
+sift person -> valeur : 1 -> score : 0.5394
+sift chair -> valeur : 3 -> score : 0.2956
+sift dog -> valeur : 4 -> score : 0.2834
